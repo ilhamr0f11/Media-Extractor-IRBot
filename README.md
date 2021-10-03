@@ -1,4 +1,4 @@
-# Streams Extractor Bot
+# Media Extractor IRBot
 
 #### This Bot can extract audios and subtitles from video files.
 #### Send any valid video file and the bot shows you available streams in it that can be extracted!!
